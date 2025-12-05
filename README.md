@@ -96,4 +96,6 @@ If you have questions or need help customizing your template, feel free to conta
 ---
 
 **Enjoy your new landing page! 🚀**
+![alt text](image.png)
 
+# launchpad
